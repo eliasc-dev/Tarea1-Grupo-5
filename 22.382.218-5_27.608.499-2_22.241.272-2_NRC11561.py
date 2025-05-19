@@ -124,6 +124,7 @@ while True:
         elif opcion == 4:
             ingreso_total_por_dia()
         elif opcion == 5:
+            print("Fin de la ejecución del programa")
             break
         else:
             print("\nLa Opcion es Invalida, intentelo denuevo.")
